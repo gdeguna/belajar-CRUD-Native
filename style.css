@@ -1,0 +1,29 @@
+#input_form{
+background:transparent;
+border:1px solid #ccc;
+margin:auto;
+width:510px;
+padding:6px;
+border-radius:3px;
+border-bottom:4px solid #444;
+};
+.texbox{
+height:30px;
+border:1px solid #ccc;
+}
+
+.table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.td, .th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.tr:nth-child(even) {
+  background-color: #dddddd;
+}
